@@ -1,3 +1,32 @@
 <resources>
     <string name="app_name">MaterialIntro</string>
+    <string name="check_to_pass">I accept terms and conditions.</string>
+    <string name="error_message">Please accept terms and conditions first.</string>
+    <string name="launch_intro_activity">Launch intro activity</string>
+    <string name="term_condition">Company Term and Conditions \n \n
+        Age Requirement: \n
+        1. You must be at least 18 years old to use the Blood Bank+ Service.\n
+
+        Privacy: \n
+        1. Your privacy rights are set forth in our Privacy Policy, which forms a part of this Agreement. Please review the Privacy Policy to learn about: What information we may collect about you; What we use that information for; and With whom we share that information.\n \n
+
+        Registration: \n
+        1. To use the Blood Bank+ Service, you must register as a member by using your Facebook account along with your full name, date of birth, valid email address, mobile number, your blood group and current location. You must provide complete and accurate registration information to Blood Bank+. To register as a member into the system is absolutely free of cost while sending messages or calling donors or requesters through the system will be charged and deducted by your mobile network provider only. \n \n
+
+        Account Security: \n
+        1. You are responsible for all activity that occurs under your account, including any activity by unauthorized users. If you become aware of an unauthorized access to your account, you must change your password and notify us immediately. \n \n
+
+        Term and Termination: \n
+        1. TERMS:
+        \t i. his Agreement begins on the date you first use the Blood Bank+ System and continues as long as you have an account with us. Blood Bank+ reserves the right to modify or discontinue the Blood Bank+ System with or without prior notice. \n \n
+
+        2. Termination for Breach: \n
+        \t i. Blood Bank+ may suspend, disable, or delete your account (or any part thereof) if Blood Bank+ determines that you have violated any provision of this Agreement or that your conduct or content would tend to damage reputation and goodwill of Blood Bank+. If Blood Bank+ deletes your account for the foregoing reasons, you may not re-register for the Blood Bank+ Service. \n \n
+
+        3. Effect of Termination: \n
+        \t i. Upon termination, all licenses granted by Blood Bank+ to you will be terminated.This Agreement constitutes the entire understanding between Blood Bank+ and you concerning the subject matter hereof and supersedes all prior agreements and understandings regarding the same. \n \n
+
+
+
+    </string>
 </resources>
